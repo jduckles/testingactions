@@ -13,8 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: echo "🎉 Woohoo we ran a job"
-      - run: curl "wttr.in/Nairobi?format=3" >> data/output.txt # Check weather
-      - run: curl "wttr.in/Dunedin+NZ?format=3" >> data/output.txt
+      - run: curl 'wttr.in/Nairobi?format=format="%T,%l,%c,%t\n"' >> data/output.txt # Check weather
+      - run: curl 'wttr.in/Dunedin+NZ?format=format="%T,%l,%c,%t\n"' >> data/output.txt
       - run: |
           git config --global user.name "Automatic Action"
           git config --global user.email "jduckles@users.noreply.github.com"
