@@ -1,0 +1,13 @@
+on:
+  push:
+    branches: main
+  pull_request:
+    branches: main
+  workflow_dispatch:
+
+jobs:
+  JobName: # Name this key whatever you want your job to be called
+    runs_on: ubuntu_latest
+    steps:
+      run: echo "🎉 Woohoo we ran a job"
+    
