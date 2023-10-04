@@ -1,31 +1,3 @@
-
-Nairobi: ⛅️  +63°F
-Dunedin+NZ: ⛅️  +65°F
-format="04:31:01+0300,Nairobi,⛅️ ,+17°C
-"
-Sorry, we are running out of queries to the weather service at the moment.
-Here is the weather report for the default city (just to show you what it looks like).
-We will get new queries as soon as possible.
-You can follow https://twitter.com/igor_chubin for the updates.
-======================================================================================
 "04:32:27+0300,Nairobi,⛅️ ,+63°F
-"
-Sorry, we are running out of queries to the weather service at the moment.
-Here is the weather report for the default city (just to show you what it looks like).
-We will get new queries as soon as possible.
-You can follow https://twitter.com/igor_chubin for the updates.
-======================================================================================
 "04:36:36+0300,Nairobi,⛅️ ,+63°F
-"
-Sorry, we are running out of queries to the weather service at the moment.
-Here is the weather report for the default city (just to show you what it looks like).
-We will get new queries as soon as possible.
-You can follow https://twitter.com/igor_chubin for the updates.
-======================================================================================
 "06:44:40+0300,Nairobi,⛅️ ,+63°F
-"
-Sorry, we are running out of queries to the weather service at the moment.
-Here is the weather report for the default city (just to show you what it looks like).
-We will get new queries as soon as possible.
-You can follow https://twitter.com/igor_chubin for the updates.
-======================================================================================
