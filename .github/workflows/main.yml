@@ -10,4 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 Woohoo we ran a job"
+      - run: curl "wttr.in/Nairobi?format=3" # Check weather
+      - run: curl "wttr.in/Dunedin+NZ?format=3" 
     
