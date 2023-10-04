@@ -8,3 +8,5 @@ Here is the weather report for the default city (just to show you what it looks 
 We will get new queries as soon as possible.
 You can follow https://twitter.com/igor_chubin for the updates.
 ======================================================================================
+"06:47:01+0300,Nairobi,⛅️ ,+17°C
+"
